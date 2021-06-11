@@ -1,0 +1,69 @@
+Object Code,Name,Commercial Name/Code,Notes,Support Level,Light Intensity,Floor Risk Level,Width,Length,Against Wall,Clearance,Sides,Clearance Value,Cad File,QR Code,URL
+1,Bed,Hill-Rom Centrella Smart Bed,,1.2,NA,NA,1.01,2.51,1,0,,,Not Ready,Ready,https://www.hillrom.com/en-us/products/smart-beds-and-surfaces/centrella-smart-bed/
+2,Light,,,NA,150,NA,,,0,0,,,Not Ready,Ready,
+3,Bath,ADA Guideline,,0.8,NA,NA,0.455,1.98,0,0,,,Not Ready,Ready,https://www.harborcitysupply.com/blog/accessible-bathing-facilities-are-required-ada-guidelines/
+4,Device,Herman Miller Intent Wall Solution,,0.7,NA,NA,,,0,0,,,Not Ready,Ready,https://www.hermanmiller.com/resources/models/revit-families/
+5,Sink,Medical sink,,0.9,NA,NA,0.7,0.7,1,0,,,Not Ready,Ready,
+6,Bar,flat handrail,,1.3,NA,NA,0.025,1,1,0,,,Not Ready,Ready,https://wallguard.com/flat-profile-handrails/
+7,Bar,cylindrical handrail,,1.3,NA,NA,0.025,1,1,0,,,Not Ready,Ready,https://wallguard.com/cylindrical-profile-handrails/
+8,Sofa,Steelcase Surround,,1.1,NA,NA,2.51,0.68,1,1,3,0.35,Not Ready,Ready,https://www.steelcase.com/products/lounge-seating/surround/
+9,Toilet,ADA Approved,,0.9,NA,NA,0.43,0.75,1,,,,Not Ready,Ready,https://www.homedepot.com/p/American-Standard-Glenwall-VorMax-1-28-GPF-Single-Flush-Toilet-with-Left-Hand-Trip-Lever-in-White-Seat-Not-Included-2882107-020/308834518
+10,Door,main room,,0.8,NA,NA,0.5,1.3,,,,,Not Ready,Ready,http://www.ilga.gov/commission/jcar/admincode/077/077002500T24500R.html
+11,Door,toilet,,0.7,NA,NA,0.3,0.81,,,,,Not Ready,Ready,https://www.houseplanshelper.com/bathroom-dimensions.html
+12,Floor Surface,,Tile,NA,NA,0.9,,,,,,,NA,NA,
+13,Floor Surface,,Carpet,NA,NA,1,,,,,,,NA,NA,
+14,Bed,VersaCare Med Surg Bed,,1.2,NA,NA,0.9,2.19,1,1,"2,4",0.4,Not Ready,Ready,https://www.hillrom.com/en-us/products/smart-beds-and-surfaces/versacare-med-surg-bed/
+15,Bed,Linet Latera Acute,,1.2,NA,NA,0.98,2.19,1,,,,Not Ready,Ready,http://www.linet.com/en/health-care/beds/universal-beds/latera-acute
+16,Chair-Patient,Steelcase Empath Recliner,,1.1,NA,NA,0.78,0.78,0,1,2,0.35,Not Ready,Ready,https://www.steelcase.com/products/patient-chairs/empath/#features_insight-driven
+17,Chair-Patient,Stryker Symmetry Plus,,1.1,NA,NA,1.05,1.05,0,,,,Not Ready,Ready,https://www.stryker.com/content/dam/stryker/acute-care/products/recliners/resources/Symmetry%20Plus%20Patient%20Room%20Recliner_spec%20sheet_mkt%20lit-85.pdf
+18,Chair-Patient,Nemschoff Consoul Recliner,,1.1,NA,NA,0.8,0.9,0,,,,Not Ready,Ready,https://www.nemschoff.com/products/consoul-recliner
+19,Chair-Visitor,Steelcase Embold Chair Single,,1.05,NA,NA,0.5,0.5,0,,,,Not Ready,Ready,https://www.steelcase.com/products/guest-chairs-stools/embold-collection/#specifications_dimensions
+20,Chair-Visitor,Stryker Symmetry II Pt.,,1.05,NA,NA,0.88,0.88,0,,,,Not Ready,Ready,https://www.stryker.com/content/dam/stryker/acute-care/products/sleepers/resources/Symmetry%20II%20Recliner%20Bed_spec%20sheet_mkt%20lit-94.pdf
+21,Chair-Visitor,Nemschoff Cities Uptown,,1.05,NA,NA,0.62,0.67,0,,,,Not Ready,Ready,https://www.nemschoff.com/products/cities-uptown-patient-chair
+22,Light,,,,,,,,,,,,,Ready,
+23,Sofa,Nemschoff Brava,,1.1,NA,NA,0.8,1.4,0,,,,Not Ready,Ready,https://www.nemschoff.com/products/brava-sleep-settee
+24,Sofa-S,Stance Healthare Carson,,1.1,NA,NA,0.89,1.93,0,,,,Not Ready,Ready,http://stancehealthcare.com/carson_resources.php
+25,Table-Overbed,Stryker Tru-Fit,,0.9,NA,NA,0.44,0.7,0,,,,Not Ready,Ready,https://www.stryker.com/content/dam/stryker/acute-care/products/tru-fit/resources/TruFit%20overbed%20tables_Spec%20sheet_mkt%20lit-95.pdf
+26,Table-Overbed,Stance Healthcare Transcend,,0.9,NA,NA,0.4,0.8,0,,,,Not Ready,Ready,http://stancehealthcare.com/transcend_resources.php
+27,Table-Occasional,Stance Healthcare Cassia Collection,,0.8,NA,NA,0.46,0.46,0,,,,Not Ready,Ready,https://www.stancehealthcare.com/items/accent-occasional-table
+28,Cabinet,bedside trearment,,0.9,NA,NA,0.46,0.6,0,,,,Not Ready,Ready,https://www.clinton-ind.com/product/8024-base-cabinet-with-2-doors
+29,Cabinet,caswork,,,NA,NA,0.46,0.9,0,,,,Not Ready,Not Ready,https://www.clinton-ind.com/product/8036-base-cabinet-with-2-doors-and-2-drawers
+30,Stand,drive medical stand,,0.7,NA,NA,0.33,0.48,0,,,,Not Ready,Ready,https://www.amazon.com/Drive-Medical-Instrument-Mobile-Caster/dp/B002VWJZ9C
+31,Light2,,,NA,170,NA,,,,,,,,,
+32,,,,,,,,,,,,,,,
+33,,,,,,,,,,,,,,,
+34,,,,,,,,,,,,,,,
+35,,,,,,,,,,,,,,,
+36,,,,,,,,,,,,,,,
+37,,,,,,,,,,,,,,,
+38,,,,,,,,,,,,,,,
+39,,,,,,,,,,,,,,,
+40,,,,,,,,,,,,,,,
+41,,,,,,,,,,,,,,,
+42,,,,,,,,,,,,,,,
+43,,,,,,,,,,,,,,,
+44,,,,,,,,,,,,,,,
+45,,,,,,,,,,,,,,,
+46,,,,,,,,,,,,,,,
+47,,,,,,,,,,,,,,,
+48,,,,,,,,,,,,,,,
+49,,,,,,,,,,,,,,,
+50,,,,,,,,,,,,,,,
+51,,,,,,,,,,,,,,,
+52,,,,,,,,,,,,,,,
+53,,,,,,,,,,,,,,,
+54,,,,,,,,,,,,,,,
+55,,,,,,,,,,,,,,,
+56,,,,,,,,,,,,,,,
+57,,,,,,,,,,,,,,,
+58,,,,,,,,,,,,,,,
+59,,,,,,,,,,,,,,,
+60,,,,,,,,,,,,,,,
+61,,,,,,,,,,,,,,,
+62,,,,,,,,,,,,,,,
+63,,,,,,,,,,,,,,,
+64,,,,,,,,,,,,,,,
+65,,,,,,,,,,,,,,,
+66,,,,,,,,,,,,,,,
+67,,,,,,,,,,,,,,,
+68,,,,,,,,,,,,,,,
